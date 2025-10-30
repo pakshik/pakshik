@@ -1,7 +1,7 @@
 # Hi there 👋, I am Pakshik Kothari
 
 ## About Me
-I'm a passionate **Software Engineer** with ~5 years of experience in building enterprise-grade applications. My journey in software development is driven by curiosity and a constant desire to explore and master new technologies.
+I'm a passionate **Software Engineer** with ~4 years of experience in building enterprise-grade applications. My journey in software development is driven by curiosity and a constant desire to explore and master new technologies.
 
 🔭 I’m currently working on **backend development** and **cloud-based microservices architecture** using Java and Spring Boot.  
 🌱 Constantly learning and evolving, with interests in **full-stack development**, **cloud technologies**, and **event-driven systems**.  
